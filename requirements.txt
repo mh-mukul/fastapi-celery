@@ -1,0 +1,12 @@
+alembic
+celery
+cryptography
+fastapi
+passlib
+PyJWT
+PyMySQL
+python-dotenv
+redis
+requests
+SQLAlchemy
+uvicorn
